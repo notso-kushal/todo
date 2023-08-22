@@ -27,8 +27,8 @@ class Home extends ConsumerWidget {
           bottomNavigationBar: Padding(
             padding: const EdgeInsets.only(
               bottom: 35,
-              left: 250,
-              right: 30,
+              left: 240,
+              right: 20,
             ),
             child: ElevatedButton(
               style: ElevatedButton.styleFrom(
