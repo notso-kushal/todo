@@ -1,17 +1,7 @@
-# todo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![Background](https://github.com/notso-kushal/todo/assets/121866448/920c8b3f-eb38-4628-8d9d-7ac077862105)
+TO-DO
+It’s a list of tasks you need to complete or things that you want to do. 
+![a](https://github.com/notso-kushal/todo/assets/121866448/292d9335-57c9-4ad5-9155-aa61d9a8ce33)
+![b](https://github.com/notso-kushal/todo/assets/121866448/96640479-9c3c-4080-8c6d-8d0fa731902a)
+![c](https://github.com/notso-kushal/todo/assets/121866448/21ad41fe-3ff8-4380-9304-fd9cbf9a1c2e)
+![d](https://github.com/notso-kushal/todo/assets/121866448/cbff2976-0ac1-4c43-88c0-c32e53269198)
+![e](https://github.com/notso-kushal/todo/assets/121866448/da858684-9d7f-4f65-8fe9-886807128e68)
