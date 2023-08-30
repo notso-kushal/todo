@@ -1,4 +1,4 @@
-#**TO-DO**
+# TO-DO
 
 It’s a list of tasks you need to complete or things that you want to do. 
 This is a To-Do app where you cant write down the things or tasks you are yet to accomplish. 
